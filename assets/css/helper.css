@@ -1,0 +1,27 @@
+.card-title{
+    width: 100px;
+    height: 13px;
+}
+
+.meta-wrapper{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 63px;
+    width: 100%;
+}
+
+.meta-item{
+    display:flex ;
+}
+
+.card-body h3{
+    box-sizing: border-box;
+}
+.flexify{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
